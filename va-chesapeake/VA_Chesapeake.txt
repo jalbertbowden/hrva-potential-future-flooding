@@ -1,0 +1,55 @@
+SEA LEVEL RISE AND COASTAL FLOOD RISK FOR CHESAPEAKE, VA										
+										
+SUPPORTING MATERIALS										
+Findings from Surging Seas (SurgingSeas.org), a project of Climate Central (climatecentral.org)										
+For detailed methodology, see SurgingSeas.org/NationalReport and references therein										
+Data sources: NOAA, USGS, USFWS, US Census										
+										
+CITATION										
+Climate Central (2012). Surging Seas Data Table. Retrieved from SurgingSeas.org/downloadables, 										
+based on methodology from SurgingSeas.org/NationalReport.  Last updated February 2012.										
+										
+FILE DETAILS										
+File creation date: 2012-03-14										
+File name: VA_Chesapeake.xls										
+File URL: slr.s3.amazonaws.com/downloadables/VA_Chesapeake.zip										
+Map URL: http://sealevel.climatecentral.org/surgingseas/place/cities/VA/Chesapeake										
+										
+DISCLAIMER										
+All content found herein is provided solely for personal informational purposes and is provided “AS-IS.”  You acknowledge										
+and agree that your use and possession of this content is subject to, and you agree to the provisions set forth in, Climate										
+Central’s Terms of Use (http://www.climatecentral.org/about/legal#terms_of_use), Privacy Policy										
+(http://www.climatecentral.org/about/legal#privacy_policy) and Surging Seas Disclaimer (http://sealevel.climatecentral.org/about/disclaimer).										
+										
+NOTES										
+ - Population and housing findings are based on population and housing on land below stated										
+elevation thresholds, and do not make adjustments for multistory housing										
+ - Land percentages based upon total city area after applying land definition filters										
+used in this study, not upon total area reported by Census										
+ - "Total land" includes freshwater wetland areas as demarked by the National Wetlands Inventory;										
+"dry land" does not.										
+										
+										
+										
+Flood study station nearest to Chesapeake: Sewells Point - Hampton Roads										
+Distance from Chesapeake centroid to Sewells Point - Hampton Roads: 18 miles										
+										
+Estimated flood probabilities by level and decade from Sewells Point - Hampton Roads at: 										
+slr.s3.amazonaws.com/downloadables/8638610.zip										
+										
+										
+	Elevation above local mean high tide									
+	1ft	2ft	3ft	4ft	5ft	6ft	7ft	8ft	9ft	10ft
+Population below elevation	560	1,409	8,539	14,947	19,477	23,346	28,957	43,381	58,771	69,492
+Percent population below elevation	0%	1%	4%	7%	9%	11%	13%	20%	26%	31%
+Housing units below elevation	195	508	3,104	5,364	6,993	8,419	10,569	15,570	21,112	24,996
+Percent housing units below elevation	0%	1%	4%	6%	8%	10%	13%	19%	25%	30%
+Total land below elevation (acres)	6,792	11,715	21,083	26,155	29,675	32,531	35,999	50,050	63,615	73,976
+Percent total land below elevation	3%	5%	10%	12%	14%	15%	17%	23%	29%	34%
+Dry land below elevation (acres)	585	1,121	5,463	9,353	12,006	14,163	16,832	27,804	38,586	46,403
+Percent dry land below elevation	0%	1%	5%	8%	10%	12%	14%	23%	32%	39%
+										
+										
+Information below pertains to nearest flood study station (Sewells Point - Hampton Roads)										
+Decade by which there are at least 1 in 6 odds of flooding to elevation	2020	2020	2020	2020	2030	2050	2070	2090	2100	>2100
+Decade by which there are at least 1 in 2 odds of flooding to elevation	2020	2020	2020	2020	2040	2070	2090	2100	>2100	>2100

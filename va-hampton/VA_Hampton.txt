@@ -1,0 +1,55 @@
+SEA LEVEL RISE AND COASTAL FLOOD RISK FOR HAMPTON, VA										
+										
+SUPPORTING MATERIALS										
+Findings from Surging Seas (SurgingSeas.org), a project of Climate Central (climatecentral.org)										
+For detailed methodology, see SurgingSeas.org/NationalReport and references therein										
+Data sources: NOAA, USGS, USFWS, US Census										
+										
+CITATION										
+Climate Central (2012). Surging Seas Data Table. Retrieved from SurgingSeas.org/downloadables, 										
+based on methodology from SurgingSeas.org/NationalReport.  Last updated February 2012.										
+										
+FILE DETAILS										
+File creation date: 2012-03-14										
+File name: VA_Hampton.xls										
+File URL: slr.s3.amazonaws.com/downloadables/VA_Hampton.zip										
+Map URL: http://sealevel.climatecentral.org/surgingseas/place/cities/VA/Hampton										
+										
+DISCLAIMER										
+All content found herein is provided solely for personal informational purposes and is provided “AS-IS.”  You acknowledge										
+and agree that your use and possession of this content is subject to, and you agree to the provisions set forth in, Climate										
+Central’s Terms of Use (http://www.climatecentral.org/about/legal#terms_of_use), Privacy Policy										
+(http://www.climatecentral.org/about/legal#privacy_policy) and Surging Seas Disclaimer (http://sealevel.climatecentral.org/about/disclaimer).										
+										
+NOTES										
+ - Population and housing findings are based on population and housing on land below stated										
+elevation thresholds, and do not make adjustments for multistory housing										
+ - Land percentages based upon total city area after applying land definition filters										
+used in this study, not upon total area reported by Census										
+ - "Total land" includes freshwater wetland areas as demarked by the National Wetlands Inventory;										
+"dry land" does not.										
+										
+										
+										
+Flood study station nearest to Hampton: Sewells Point - Hampton Roads										
+Distance from Hampton centroid to Sewells Point - Hampton Roads: 7 miles										
+										
+Estimated flood probabilities by level and decade from Sewells Point - Hampton Roads at: 										
+slr.s3.amazonaws.com/downloadables/8638610.zip										
+										
+										
+	Elevation above local mean high tide									
+	1ft	2ft	3ft	4ft	5ft	6ft	7ft	8ft	9ft	10ft
+Population below elevation	987	1,661	3,849	11,333	17,162	22,845	29,180	38,834	67,558	79,406
+Percent population below elevation	1%	1%	3%	8%	12%	17%	21%	28%	49%	58%
+Housing units below elevation	497	814	1,787	5,144	7,636	10,013	12,628	16,710	28,620	33,870
+Percent housing units below elevation	1%	1%	3%	9%	13%	17%	21%	28%	48%	57%
+Total land below elevation (acres)	430	773	1,625	4,539	6,190	7,531	8,890	10,701	15,034	16,937
+Percent total land below elevation	1%	3%	5%	15%	21%	25%	30%	36%	50%	56%
+Dry land below elevation (acres)	294	503	1,140	3,617	5,199	6,502	7,827	9,599	13,870	15,711
+Percent dry land below elevation	1%	2%	4%	13%	19%	24%	29%	35%	51%	58%
+										
+										
+Information below pertains to nearest flood study station (Sewells Point - Hampton Roads)										
+Decade by which there are at least 1 in 6 odds of flooding to elevation	2020	2020	2020	2020	2030	2050	2070	2090	2100	>2100
+Decade by which there are at least 1 in 2 odds of flooding to elevation	2020	2020	2020	2020	2040	2070	2090	2100	>2100	>2100
